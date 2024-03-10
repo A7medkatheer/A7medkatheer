@@ -1,11 +1,9 @@
 <h1 align="left
 ">Hey i'm ahmed katheer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0D0069FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Flutter+Developer;Information+system+Student;Software +Engineering;Always+learning+new+things"></a>
-</p>
+
 ###
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FFE448&random=false&width=435&lines=Junior+Flutter+Developer+;Information+system+Student+;Software++Engineering;Always+learning+new+things" alt="Typing SVG" /></a>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
 ###
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
