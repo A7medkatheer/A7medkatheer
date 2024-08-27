@@ -14,6 +14,7 @@
 - :nerd_face: Always `learning new things`.
   <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume). -->
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
+- ⚡ this is [My Resume](https://drive.google.com/file/d/1aDleWeCMl40uYGVmlp4E_rlUUQK2OV2v/view?usp=sharing)
   <br>
 
   ## <picture><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 50px></picture> *contact me*
